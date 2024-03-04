@@ -1,0 +1,22 @@
+.container{
+    width: 1200px;
+    margin: auto;
+}
+h1{
+   text-align: center;
+   margin-top: 50px;
+}
+.card{
+    width:250px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px 10px;
+}
+.section-film{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}

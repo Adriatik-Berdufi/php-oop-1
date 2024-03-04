@@ -8,5 +8,4 @@ $productions = [
     new Production("Film-6","EN","7.3"),
     new Production("Film-7","IT","9.1"),
     new Production("Film-8","EN","7.3"),
-    new Production("Film-9","ES","8.7"),
 ];
